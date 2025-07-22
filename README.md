@@ -33,14 +33,23 @@ It was specifically designed to support users with ADHD and other attention frag
 ```bash
 pip install Flask Flask-SQLAlchemy requests
 ```
+### 2. Configure API Endpoint
 
-### 2. Run the backend server
+In `desktop_app.py`, update:
+
+```python
+API_BASE_URL = "http://127.0.0.1:5000"
+```
+
+Change to your local IP if syncing across devices (e.g., `http://192.168.1.100:5000`)
+
+### 3. Run the backend server
 
 ```bash
 python server.py
 ```
 
-### 3. Run the desktop app in another terminal
+### 4. Run the desktop app in another terminal
 
 ```bash
 python desktop_app.py
