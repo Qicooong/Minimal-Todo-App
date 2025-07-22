@@ -42,19 +42,10 @@ API_BASE_URL = "http://127.0.0.1:5000"
 ```
 
 Change to your local IP if syncing across devices (e.g., `http://192.168.1.100:5000`)
-### 4. Configure API Endpoint
 
-In `desktop_app.py`, update:
+p.s.
 
-```python
-API_BASE_URL = "http://127.0.0.1:5000"
-```
-
-Change to your local IP if syncing across devices (e.g., `http://192.168.1.100:5000`)
-
-`p.s.
-
-To sync across devices on the same local network (LAN):
+To sync across devices on the same local network (LAN), you can take the following steps:
 
 * Find your computer's local IP address:
   On Windows (CMD):
@@ -73,7 +64,7 @@ To sync across devices on the same local network (LAN):
   ```python
   API_BASE_URL = "http://192.168.0.100:5000"
   ```
-`
+
 ### 3. Run the backend server
 
 ```bash
