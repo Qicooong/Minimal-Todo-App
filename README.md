@@ -77,7 +77,8 @@ python server.py
 python desktop_app.py
 ```
 
-⚠️ Notes
+## ⚠️ Notes
+
 The server.py must be running during use
 
 Data is stored in todos.db locally
