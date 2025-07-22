@@ -1,6 +1,18 @@
 # 🌸 Minimal Desktop Todo App
 
-A lightweight, aesthetic desktop todo app to help you stay focused and reduce digital distraction — especially for ADHD users.
+A lightweight, aesthetic desktop todo application designed to enhance **focus** and **intentional digital use**, especially for ADHD users.
+Built with **Python Tkinter + Flask + SQLite**, this app provides a persistent desktop overlay and intuitive task interactions — all synced locally.
+
+---
+
+## ✨ Original Intention
+
+> *"Why did I open this computer/app/website?"*
+
+This app serves as a **Digital Purpose Reminder** — a visual anchor on your screen that gently reminds you of your current goal. It aims to reduce digital distraction and help users stick to a singular task at a time.
+
+It was specifically designed to support users with ADHD and other attention fragmentation challenges, combining persistence, minimalism, and seamless task management to help you regain control of your original intent.
+
 
 ## ✨ Features
 
