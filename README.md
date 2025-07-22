@@ -20,7 +20,7 @@ A lightweight, aesthetic desktop todo app to help you stay focused and reduce di
 
 ‍```bash
 pip install Flask Flask-SQLAlchemy requests
-
+‍```
 
 ### 2. Run the backend server
 
