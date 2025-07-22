@@ -76,3 +76,10 @@ python server.py
 ```bash
 python desktop_app.py
 ```
+
+⚠️ Notes
+The server.py must be running during use
+
+Data is stored in todos.db locally
+
+Debug mode is enabled (not production safe)
